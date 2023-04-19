@@ -1,0 +1,13 @@
+.sub-image img {
+    height: 100px;
+    width: 130px;
+}
+
+.sub-image {
+    text-align: center;
+}
+.card-header{
+    background-color: darkgoldenrod;
+    color: white;
+    font-weight: bold;
+}
